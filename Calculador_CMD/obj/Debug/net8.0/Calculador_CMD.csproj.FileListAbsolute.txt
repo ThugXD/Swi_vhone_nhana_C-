@@ -1,0 +1,15 @@
+C:\Users\Dell\Desktop\ThugXD\Projectos\Projectos C#\Calculador_CMD\bin\Debug\net8.0\Calculador_CMD.exe
+C:\Users\Dell\Desktop\ThugXD\Projectos\Projectos C#\Calculador_CMD\bin\Debug\net8.0\Calculador_CMD.deps.json
+C:\Users\Dell\Desktop\ThugXD\Projectos\Projectos C#\Calculador_CMD\bin\Debug\net8.0\Calculador_CMD.runtimeconfig.json
+C:\Users\Dell\Desktop\ThugXD\Projectos\Projectos C#\Calculador_CMD\bin\Debug\net8.0\Calculador_CMD.dll
+C:\Users\Dell\Desktop\ThugXD\Projectos\Projectos C#\Calculador_CMD\bin\Debug\net8.0\Calculador_CMD.pdb
+C:\Users\Dell\Desktop\ThugXD\Projectos\Projectos C#\Calculador_CMD\obj\Debug\net8.0\Calculador_CMD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\ThugXD\Projectos\Projectos C#\Calculador_CMD\obj\Debug\net8.0\Calculador_CMD.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\ThugXD\Projectos\Projectos C#\Calculador_CMD\obj\Debug\net8.0\Calculador_CMD.AssemblyInfo.cs
+C:\Users\Dell\Desktop\ThugXD\Projectos\Projectos C#\Calculador_CMD\obj\Debug\net8.0\Calculador_CMD.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\ThugXD\Projectos\Projectos C#\Calculador_CMD\obj\Debug\net8.0\Calculador_CMD.dll
+C:\Users\Dell\Desktop\ThugXD\Projectos\Projectos C#\Calculador_CMD\obj\Debug\net8.0\refint\Calculador_CMD.dll
+C:\Users\Dell\Desktop\ThugXD\Projectos\Projectos C#\Calculador_CMD\obj\Debug\net8.0\Calculador_CMD.pdb
+C:\Users\Dell\Desktop\ThugXD\Projectos\Projectos C#\Calculador_CMD\obj\Debug\net8.0\Calculador_CMD.genruntimeconfig.cache
+C:\Users\Dell\Desktop\ThugXD\Projectos\Projectos C#\Calculador_CMD\obj\Debug\net8.0\ref\Calculador_CMD.dll
+C:\Users\Dell\Desktop\ThugXD\Projectos\Projectos C#\Calculador_CMD\obj\Debug\net8.0\Calculador_CMD.sourcelink.json
