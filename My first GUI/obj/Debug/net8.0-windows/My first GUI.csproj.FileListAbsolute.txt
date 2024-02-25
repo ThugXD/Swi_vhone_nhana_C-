@@ -1,0 +1,14 @@
+C:\Users\Dell\Desktop\ThugXD\Projectos\Projectos C#\My first GUI\bin\Debug\net8.0-windows\My first GUI.exe
+C:\Users\Dell\Desktop\ThugXD\Projectos\Projectos C#\My first GUI\bin\Debug\net8.0-windows\My first GUI.deps.json
+C:\Users\Dell\Desktop\ThugXD\Projectos\Projectos C#\My first GUI\bin\Debug\net8.0-windows\My first GUI.runtimeconfig.json
+C:\Users\Dell\Desktop\ThugXD\Projectos\Projectos C#\My first GUI\bin\Debug\net8.0-windows\My first GUI.dll
+C:\Users\Dell\Desktop\ThugXD\Projectos\Projectos C#\My first GUI\bin\Debug\net8.0-windows\My first GUI.pdb
+C:\Users\Dell\Desktop\ThugXD\Projectos\Projectos C#\My first GUI\obj\Debug\net8.0-windows\My first GUI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\ThugXD\Projectos\Projectos C#\My first GUI\obj\Debug\net8.0-windows\My first GUI.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\ThugXD\Projectos\Projectos C#\My first GUI\obj\Debug\net8.0-windows\My first GUI.AssemblyInfo.cs
+C:\Users\Dell\Desktop\ThugXD\Projectos\Projectos C#\My first GUI\obj\Debug\net8.0-windows\My first GUI.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\ThugXD\Projectos\Projectos C#\My first GUI\obj\Debug\net8.0-windows\My first GUI.dll
+C:\Users\Dell\Desktop\ThugXD\Projectos\Projectos C#\My first GUI\obj\Debug\net8.0-windows\refint\My first GUI.dll
+C:\Users\Dell\Desktop\ThugXD\Projectos\Projectos C#\My first GUI\obj\Debug\net8.0-windows\My first GUI.pdb
+C:\Users\Dell\Desktop\ThugXD\Projectos\Projectos C#\My first GUI\obj\Debug\net8.0-windows\My first GUI.genruntimeconfig.cache
+C:\Users\Dell\Desktop\ThugXD\Projectos\Projectos C#\My first GUI\obj\Debug\net8.0-windows\ref\My first GUI.dll
