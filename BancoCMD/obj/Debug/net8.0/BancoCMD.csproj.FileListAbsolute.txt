@@ -1,0 +1,15 @@
+C:\Users\Dell\Desktop\ThugXD\Projectos\Projectos C#\BancoCMD\obj\Debug\net8.0\BancoCMD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\ThugXD\Projectos\Projectos C#\BancoCMD\obj\Debug\net8.0\BancoCMD.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\ThugXD\Projectos\Projectos C#\BancoCMD\obj\Debug\net8.0\BancoCMD.AssemblyInfo.cs
+C:\Users\Dell\Desktop\ThugXD\Projectos\Projectos C#\BancoCMD\obj\Debug\net8.0\BancoCMD.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\ThugXD\Projectos\Projectos C#\BancoCMD\obj\Debug\net8.0\BancoCMD.sourcelink.json
+C:\Users\Dell\Desktop\ThugXD\Projectos\Projectos C#\BancoCMD\bin\Debug\net8.0\BancoCMD.exe
+C:\Users\Dell\Desktop\ThugXD\Projectos\Projectos C#\BancoCMD\bin\Debug\net8.0\BancoCMD.deps.json
+C:\Users\Dell\Desktop\ThugXD\Projectos\Projectos C#\BancoCMD\bin\Debug\net8.0\BancoCMD.runtimeconfig.json
+C:\Users\Dell\Desktop\ThugXD\Projectos\Projectos C#\BancoCMD\bin\Debug\net8.0\BancoCMD.dll
+C:\Users\Dell\Desktop\ThugXD\Projectos\Projectos C#\BancoCMD\bin\Debug\net8.0\BancoCMD.pdb
+C:\Users\Dell\Desktop\ThugXD\Projectos\Projectos C#\BancoCMD\obj\Debug\net8.0\BancoCMD.dll
+C:\Users\Dell\Desktop\ThugXD\Projectos\Projectos C#\BancoCMD\obj\Debug\net8.0\refint\BancoCMD.dll
+C:\Users\Dell\Desktop\ThugXD\Projectos\Projectos C#\BancoCMD\obj\Debug\net8.0\BancoCMD.pdb
+C:\Users\Dell\Desktop\ThugXD\Projectos\Projectos C#\BancoCMD\obj\Debug\net8.0\BancoCMD.genruntimeconfig.cache
+C:\Users\Dell\Desktop\ThugXD\Projectos\Projectos C#\BancoCMD\obj\Debug\net8.0\ref\BancoCMD.dll
