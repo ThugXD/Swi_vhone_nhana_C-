@@ -1,0 +1,15 @@
+C:\Users\Dell\Desktop\ThugXD\Projectos\Projectos C#\Polidrom-String\bin\Debug\net8.0\Polidrom-String.exe
+C:\Users\Dell\Desktop\ThugXD\Projectos\Projectos C#\Polidrom-String\bin\Debug\net8.0\Polidrom-String.deps.json
+C:\Users\Dell\Desktop\ThugXD\Projectos\Projectos C#\Polidrom-String\bin\Debug\net8.0\Polidrom-String.runtimeconfig.json
+C:\Users\Dell\Desktop\ThugXD\Projectos\Projectos C#\Polidrom-String\bin\Debug\net8.0\Polidrom-String.dll
+C:\Users\Dell\Desktop\ThugXD\Projectos\Projectos C#\Polidrom-String\bin\Debug\net8.0\Polidrom-String.pdb
+C:\Users\Dell\Desktop\ThugXD\Projectos\Projectos C#\Polidrom-String\obj\Debug\net8.0\Polidrom-String.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Dell\Desktop\ThugXD\Projectos\Projectos C#\Polidrom-String\obj\Debug\net8.0\Polidrom-String.AssemblyInfoInputs.cache
+C:\Users\Dell\Desktop\ThugXD\Projectos\Projectos C#\Polidrom-String\obj\Debug\net8.0\Polidrom-String.AssemblyInfo.cs
+C:\Users\Dell\Desktop\ThugXD\Projectos\Projectos C#\Polidrom-String\obj\Debug\net8.0\Polidrom-String.csproj.CoreCompileInputs.cache
+C:\Users\Dell\Desktop\ThugXD\Projectos\Projectos C#\Polidrom-String\obj\Debug\net8.0\Polidrom-String.sourcelink.json
+C:\Users\Dell\Desktop\ThugXD\Projectos\Projectos C#\Polidrom-String\obj\Debug\net8.0\Polidrom-String.dll
+C:\Users\Dell\Desktop\ThugXD\Projectos\Projectos C#\Polidrom-String\obj\Debug\net8.0\refint\Polidrom-String.dll
+C:\Users\Dell\Desktop\ThugXD\Projectos\Projectos C#\Polidrom-String\obj\Debug\net8.0\Polidrom-String.pdb
+C:\Users\Dell\Desktop\ThugXD\Projectos\Projectos C#\Polidrom-String\obj\Debug\net8.0\Polidrom-String.genruntimeconfig.cache
+C:\Users\Dell\Desktop\ThugXD\Projectos\Projectos C#\Polidrom-String\obj\Debug\net8.0\ref\Polidrom-String.dll
